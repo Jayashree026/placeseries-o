@@ -1,3 +1,3 @@
 ## 🖥️ Deployed & Running  
-💻 **Live Here → [placeseries-o](placeserieso.netlify.app)** ⚡ 
+💻 **Live Here → [placeseries-o](https://placeserieso.netlify.app)** ⚡ 
 
